@@ -1,1 +1,2 @@
-# -my-curriculum
+# -my-curricul 
+este es me curriculum 
